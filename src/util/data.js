@@ -4,7 +4,7 @@ import {
   FaCss3Alt,
   FaJs,
   FaBootstrap,
-//   FaGitAlt,
+  FaGitAlt,
   FaGithub,
 } from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
@@ -39,7 +39,7 @@ export const skills = [
     { name: "JavaScript", icon: <FaJs className="text-yellow-500" />, delay: 0.8 },
     { name: "Tailwind CSS", icon: <SiTailwindcss className="text-cyan-500" />, delay: 1.0 },
     { name: "Bootstrap", icon: <FaBootstrap className="text-purple-600" />, delay: 1.2 },
-    // { name: "Git", icon: <FaGitAlt className="text-red-600" />, delay: 1.4 },
+    { name: "Git", icon: <FaGitAlt className="text-red-600" />, delay: 1.4 },
     { name: "GitHub", icon: <FaGithub className="text-black" />, delay: 1.6 },
 ];
   
