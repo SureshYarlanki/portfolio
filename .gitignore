@@ -1,0 +1,6 @@
+node_modules/
+build/
+.DS_Store
+public/.DS_Store
+src/.DS_Store
+src/util/.DS_Store
