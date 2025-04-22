@@ -89,7 +89,7 @@ export const serviceData = [
 
 export const projects = [
     {
-      title: "Employee Management System",
+      title: "Contact Manager",
       description: "Built a responsive CRUD application using React.js with state management, implementing form validation and local storage persistence.",
       tech: ["React", "Tailwind CSS", "React Icons", "Formik"],
       link: "https://contact-manager-sbiv.vercel.app/",
